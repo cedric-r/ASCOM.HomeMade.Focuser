@@ -1,0 +1,13 @@
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.HomeMade.Test.exe.config
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.HomeMade.Test.exe
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.HomeMade.Test.pdb
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.Utilities.dll
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.DriverAccess.xml
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.Utilities.xml
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\obj\x86\Debug\ASCOM.HomeMade.Test.exe
+C:\Users\xuz39173\Downloads\focuser2\HomeMadeFocuser\obj\x86\Debug\ASCOM.HomeMade.Test.pdb
